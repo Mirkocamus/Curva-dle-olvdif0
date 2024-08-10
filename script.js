@@ -1,4 +1,4 @@
-script.js;
+script.js
 const days = ["Primer Día", "Segundo Día", "Tercer Día", "Cuarto Día", "Quinto Día"];
 let currentDayIndex = 0;
 
